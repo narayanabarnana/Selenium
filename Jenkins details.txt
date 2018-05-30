@@ -1,2 +1,11 @@
 username: capnarayana
 password: Automation@009
+
+git init
+git remote add origin https://github.com/narayanabarnana/Selenium.git
+git pull
+git pull origin master
+git status
+git add .
+git commit -m "New documents added to the repository"
+git push origin master
